@@ -49,16 +49,6 @@ database.default.username = [username]
 database.default.password = [password]
 ```
 
-6. Jalankan migrasi database
-```bash
-php spark migrate
-```
-
-7. Jalankan seeder (opsional)
-```bash
-php spark db:seed [NamaSeeder]
-```
-
 ## 🗂️ Struktur Project
 ```
 Manejemen Tiket/
